@@ -1,3 +1,3 @@
-# UE5_Quest2_VR_Temp
-UE5 Quest2 VR Template
-Template to start fresh VR projets for Quest2 withou the UE5 Template
+# UE5_VR_BFIS_Experience
+Intro to BFIS Xperience
+From UE5_uest2_VR_Template
