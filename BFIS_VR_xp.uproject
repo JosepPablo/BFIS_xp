@@ -51,6 +51,16 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "OpenXRExpansionPlugin",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
 		}
 	]
 }
